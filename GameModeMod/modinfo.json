@@ -1,0 +1,13 @@
+{
+  "name": "GameMode",
+  "author": "traxam",
+  "description": "Change your game mode in an existing world.",
+  "version": "1.0.1",
+  "license": "",
+  "icon": "icon.png",
+  "banner": "banner.png",
+  "gameVersion": "Update 11 (4677160)",
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/gamemode/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
