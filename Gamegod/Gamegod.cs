@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace GameModeMod
+namespace Gamegod
 {
-    public class GameModeMod : Mod
+    public class Gamegod : Mod
     {
         private void Start()
         {
@@ -78,7 +78,7 @@ namespace GameModeMod
 
         private static void LogInfo(string message)
         {
-            Debug.Log("<color=#3498db>[info]</color>\t<b>traxam's GameMode mod:</b> " + message);
+            Debug.Log("<color=#3498db>[info]</color>\t<b>GameMode mod:</b> " + message);
         }
 
         private static void FollowUpLog(string message)
@@ -88,7 +88,7 @@ namespace GameModeMod
 
         private static void LogError(string message)
         {
-            Debug.LogError("<color=#e74c3c>[error]</color>\t<b>traxam's GameMode mod:</b> " + message);
+            Debug.LogError("<color=#e74c3c>[error]</color>\t<b>GameMode mod:</b> " + message);
         }
     }
 }

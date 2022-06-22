@@ -17,3 +17,5 @@ powershell "[System.Reflection.Assembly]::LoadWithPartialName('System.IO.Compres
 :: Deleting the "build" folder
 rmdir /s /q "build"
 :: Build succeeded!
+
+
